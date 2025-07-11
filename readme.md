@@ -1,6 +1,6 @@
 # Projek Freedom Open Source - Building Data Pipeline using Airflow & Doris
 
- ![Alt text](https://github.com/projekdos/orchestrator_workshop_airflow_doris_batch1/blob/main/Image/header.png)
+ ![Alt text](https://github.com/projekdos/orchestrator_workshop_airflow_doris_batch1/blob/main/image/header.png)
 
 This hands-on workshop Prepared by Frederik Stefanus & Wandhana Kurnia that participants can learn :
 
@@ -17,4 +17,4 @@ Contact:
  - Linkedin: https://www.linkedin.com/company/projek-dos/
  - Youtube: https://www.youtube.com/@wndktech
 
- ![Alt text](https://github.com/projekdos/orchestrator_workshop_airflow_doris_batch1/blob/main/Image/projeckDos2-fullcolor-white.png)
+ ![Alt text](https://github.com/projekdos/orchestrator_workshop_airflow_doris_batch1/blob/main/image/projeckDos2-fullcolor-white.png)
