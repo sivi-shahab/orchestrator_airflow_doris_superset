@@ -22,11 +22,11 @@ This architecture follows the Medallion (Bronze-Silver-Gold) structure with clea
 ![Alt text](https://github.com/projekdos/orchestrator_workshop_airflow_doris_batch1/blob/main/image/coingecko.avif)
 ![Alt text](https://github.com/projekdos/orchestrator_workshop_airflow_doris_batch1/blob/main/image/quiz-json.png)
 
-Coingecko Crypto Analytics – Data Pipeline Quiz
+## Coingecko Crypto Analytics – Data Pipeline Quiz
 
 This challenge tests your skills in building a complete **data pipeline** using top-1000 crypto token data from **[Coingecko](https://www.coingecko.com/)**.
 
-## 🔍 About Cryptocurrency Analytics
+### 🔍 About Cryptocurrency Analytics
 
 With thousands of tokens traded globally, investors and analysts rely on **crypto analytics** to track market trends, identify top-performing tokens, and assess volatility.  
 
