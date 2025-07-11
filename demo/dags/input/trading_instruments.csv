@@ -1,0 +1,14 @@
+symbol,name,category,exchange,currency,min_trade_amount,leverage_available,spread_pips,is_tradeable,created_date
+AAPL,Apple Inc.,Stocks,NASDAQ,USD,1,5,0.02,True,2020-01-01
+GOOGL,Alphabet Inc.,Stocks,NASDAQ,USD,1,5,0.02,True,2020-01-01
+TSLA,Tesla Inc.,Stocks,NASDAQ,USD,1,5,0.03,True,2020-01-01
+MSFT,Microsoft Corp.,Stocks,NASDAQ,USD,1,5,0.02,True,2020-01-01
+AMZN,Amazon.com Inc.,Stocks,NASDAQ,USD,1,5,0.02,True,2020-01-01
+EURUSD,Euro US Dollar,Forex,FX,USD,1000,30,1.2,True,2020-01-01
+GBPUSD,British Pound US Dollar,Forex,FX,USD,1000,30,1.5,True,2020-01-01
+USDJPY,US Dollar Japanese Yen,Forex,FX,JPY,1000,30,0.8,True,2020-01-01
+BTC,Bitcoin,Crypto,CRYPTO,USD,10,2,50.0,True,2020-01-01
+ETH,Ethereum,Crypto,CRYPTO,USD,10,2,25.0,True,2020-01-01
+SPY,SPDR S&P 500 ETF,ETF,NYSE,USD,1,10,0.05,True,2020-01-01
+GLD,SPDR Gold Shares,ETF,NYSE,USD,1,10,0.08,True,2020-01-01
+OIL,Crude Oil,Commodities,NYMEX,USD,100,20,3.0,True,2020-01-01
