@@ -1,0 +1,17 @@
+2025-07-12 17:19:13.093 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] No server auth method
+2025-07-12 17:19:13.098 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] Started ServiceDispatcher. HostPort=fe:9010
+2025-07-12 17:19:13.099 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] DataChannel factory: com.sleepycat.je.rep.utilint.net.SimpleChannelFactory
+2025-07-12 17:19:13.163 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] DTVLSN at start:0
+2025-07-12 17:19:13.165 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] node:NullNode(-1) state change from DETACHED to UNKNOWN
+2025-07-12 17:19:13.190 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] Current group size: 0
+2025-07-12 17:19:13.191 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] New node fe_4bb83929_c370_45e8_812d_0b537bdb87bf(-1) unknown to rep group
+2025-07-12 17:19:13.192 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] Master changed to fe_4bb83929_c370_45e8_812d_0b537bdb87bf
+2025-07-12 17:19:13.192 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] Nascent group. fe_4bb83929_c370_45e8_812d_0b537bdb87bf is master by virtue of being the first node.
+2025-07-12 17:19:13.192 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] node:fe_4bb83929_c370_45e8_812d_0b537bdb87bf(1) state change from UNKNOWN to MASTER
+2025-07-12 17:19:13.224 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] Successfully added node:fe_4bb83929_c370_45e8_812d_0b537bdb87bf(1) HostPort = 172.20.80.2: 9010 [ELECTABLE]
+2025-07-12 17:19:13.238 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] Updated minimum JE group version to 7.5.0
+2025-07-12 17:19:13.239 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] Node fe_4bb83929_c370_45e8_812d_0b537bdb87bf started
+2025-07-12 17:19:13.240 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] node:NullNode(-1) state change from MASTER to UNKNOWN
+2025-07-12 17:19:13.241 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] node:fe_4bb83929_c370_45e8_812d_0b537bdb87bf(1) state change from UNKNOWN to MASTER
+2025-07-12 17:19:13.241 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] Feeder manager accepting requests.
+2025-07-12 17:19:13.243 UTC INFO [fe_4bb83929_c370_45e8_812d_0b537bdb87bf] Joining group as master

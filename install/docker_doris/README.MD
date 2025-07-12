@@ -2,7 +2,7 @@
 
 1. Please install Docker to your system first. You can refer to this URL:
 
-https://www.docker.com/products/docker-desktop/
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-22-04
 
 2. Verify the installation process by executing this command:
 
@@ -10,12 +10,10 @@ docker --version
 
 3. Execute this command from your terminal inside this directory path:
 
-sudo docker compose -f compose.yml up -d
+docker compose up d --build
 
 4. Open The Apache Doris Web UI by accessing this URL:
 
 localhost:8030
-
-5. Or using mysql client CLI :
-
-mysql -u root -h [your local ip address] -P 9030
+user: root
+password:(leave blank)

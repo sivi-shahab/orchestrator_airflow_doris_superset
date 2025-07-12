@@ -6,7 +6,10 @@ services:
     environment:
       - FE_SERVERS=fe1:172.20.80.2:9010
       - FE_ID=1
+      - JAVA_OPTS_FOR_JDK_17=-Xmx4096m -XX:+UseG1GC -XX:MaxGCPauseMillis=200
+      - JAVA_OPTS=-Xmx4096m -XX:+UseG1GC -XX:MaxGCPauseMillis=200
     volumes:
+      - ./data/fe/fe.conf:/opt/apache-doris/fe/conf/fe.conf:ro
       - ./data/fe/doris-meta/:/opt/apache-doris/fe/doris-meta/
       - ./data/fe/log/:/opt/apache-doris/fe/log/
       - ./data/fe/fe.conf:/opt/apache-doris/fe/conf/fe.conf
